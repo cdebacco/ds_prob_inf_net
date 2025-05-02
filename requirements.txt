@@ -1,0 +1,16 @@
+networkx
+numpy==1.26.4
+pandas
+scikit-learn
+scipy
+jupyterlab
+Notebook
+openpyxl
+notebook
+matplotlib
+seaborn
+nbconvert
+probinet
+country_converter
+statsbombpy
+adjustText
