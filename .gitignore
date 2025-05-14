@@ -1,7 +1,7 @@
 .idea
 *.Rhistory
 *.Rdata
-*.npz
+.npz
 
 #*.dat
 *.DS_Store*
